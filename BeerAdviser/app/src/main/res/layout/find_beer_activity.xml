@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".FindBeerActivity">
+
+    <Spinner
+        android:id="@+id/Chose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:layout_marginTop="40dp"
+        android:entries="@array/Chose"
+        android:gravity="center">
+
+    </Spinner>
+
+<Button
+    android:id="@+id/find_beer"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/find_beer"
+    android:layout_gravity="center"
+    android:layout_margin="16dp"
+    android:onClick="OnClickListener">
+
+</Button>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="85dp"
+        android:gravity="center_horizontal"
+        android:text="TextView"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/brands"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/brands"
+        android:textAlignment="center"
+        android:layout_margin="16dp"
+        android:textSize="16sp">
+
+    </TextView>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/barmen_button"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center"
+        android:onClick="OnClickBarmen"
+        android:id="@+id/text_message">
+
+    </Button>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center"
+        android:text="@string/barmen_message"
+        android:id="@+id/send">
+
+    </EditText>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/Start"
+            android:onClick="OnStartClick"/>
+
+        <Button
+            android:id="@+id/stop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/Stop"
+            android:onClick="OnStopClick"/>
+
+        <Button
+            android:id="@+id/resume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/Resume"
+            android:onClick="OnResumeClick"/>
+    </LinearLayout>
+
+
+</LinearLayout>

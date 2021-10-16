@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BeerAdviser</string>
+    <string name="find_beer">Find Beer Bitch!</string>
+    <string name="brands">Beer not selected</string>
+    <string name="text_message">Text</string>
+    <string name="send">Send</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="Resume">Resume</string>
+    <string-array name="Chose">
+        <item>light</item>
+        <item>dark</item>
+        <item>brown</item>
+        <item>amber</item>
+    </string-array>
+    <string name="barmen_button">Send to barmen</string>
+    <string name="barmen_message">Please write your order</string>
+    <string name="chooser">Please chose your app for send message</string>
+</resources>
