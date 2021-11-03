@@ -12,3 +12,6 @@ In this project used: Bundle, Fragments, Interface, For, Array, Adapter, LifeCyc
 **BitsAndPizza**  
 App which contain info about pizza and restaraunt. Here you can make your order or share this app to your friend.  
 In this project used: Fragments, SectionPager, Toolbar, ShareActionProvider, ViewPager, TabLayout, Intent, ExtraMessage, switch, case, Menu, Snackbar.  
+**CatChat**  
+This app is not ready, it's copy of contact.  
+In this project used: toolbar, drawerlayout, actionbardrawertoggle, navigationview, fragment  
