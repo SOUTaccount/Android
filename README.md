@@ -15,3 +15,6 @@ In this project used: Fragments, SectionPager, Toolbar, ShareActionProvider, Vie
 **CatChat**  
 This app is not ready, it's copy of contact.  
 In this project used: toolbar, drawerlayout, actionbardrawertoggle, navigationview, fragment  
+**Joke**  
+It's just joke. Push notification  
+In this project used: onHandleIntent, try\catch, NotificationManager, if, NotificationCompat.Builder, intent.  
