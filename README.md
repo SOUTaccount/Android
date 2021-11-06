@@ -18,3 +18,6 @@ In this project used: toolbar, drawerlayout, actionbardrawertoggle, navigationvi
 **Joke**  
 It's just joke. Push notification  
 In this project used: onHandleIntent, try\catch, NotificationManager, if, NotificationCompat.Builder, intent.  
+**Odometr**  
+Odometr  
+In this project used: binder, LocationListener, Intent, Handler, NotificationManager, NotificationCompat.Builder, ServiceConnection  
