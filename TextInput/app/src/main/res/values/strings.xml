@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextInput</string>
+    <string name="login">Login</string>
+    <string name="phone_num">Phone number</string>
+    <string name="invalid_email_message">Некорректная почта</string>
+    <string name="valid_email_message">Корректная почта</string>
+</resources>
