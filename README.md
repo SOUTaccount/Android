@@ -22,4 +22,6 @@ In this project used: onHandleIntent, try\catch, NotificationManager, if, Notifi
 Odometr  
 In this project used: binder, LocationListener, Intent, Handler, NotificationManager, NotificationCompat.Builder, ServiceConnection  
 **SetAndGet**  
-MVVM, LiveData
+MVVM, LiveData  
+**TextInput**  
+TextInput, layout, styles, space, error
