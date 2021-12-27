@@ -24,4 +24,6 @@ In this project used: binder, LocationListener, Intent, Handler, NotificationMan
 **SetAndGet**  
 MVVM, LiveData  
 **TextInput**  
-TextInput, layout, styles, space, error
+TextInput, layout, styles, space, error  
+**TimerMVVM**  
+Just Timer  
