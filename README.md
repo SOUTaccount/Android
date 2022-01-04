@@ -30,4 +30,6 @@ Just Timer
 **ListUsers**  
 MVVM, LiveData, Adapter, RecyclerView  
 **GetJoke**  
-MVVM, Retrofit, Gson, SOLID
+MVVM, Retrofit, Gson, SOLID  
+**CheckError**  
+MVVM, Retrofit, Gson, SOLID, Realm, Callbacks
