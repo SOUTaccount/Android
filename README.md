@@ -28,4 +28,6 @@ TextInput, layout, styles, space, error
 **TimerMVVM**  
 Just Timer  
 **ListUsers**  
-MVVM, LiveData, Adapter, RecyclerView
+MVVM, LiveData, Adapter, RecyclerView  
+**GetJoke**  
+MVVM, Retrofit, Gson, SOLID
