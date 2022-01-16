@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AvatarCustomViewMask">
+        <attr name="acvm_borderColor" format="color"/>
+        <attr name="acvm_borderWidth" format="dimension"/>
+        <attr name="acvm_initials" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="AvatarCustomViewShader">
+        <attr name="acvs_borderColor" format="color"/>
+        <attr name="acvs_borderWidth" format="dimension"/>
+        <attr name="acvs_initials" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="AvatarCustomView">
+        <attr name="acv_borderColor" format="color"/>
+        <attr name="acv_borderWidth" format="dimension"/>
+        <attr name="acv_initials" format="string"/>
+    </declare-styleable>
+</resources>
