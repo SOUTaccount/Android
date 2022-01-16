@@ -32,4 +32,6 @@ MVVM, LiveData, Adapter, RecyclerView
 **GetJoke**  
 MVVM, Retrofit, Gson, SOLID  
 **CheckError**  
-MVVM, Retrofit, Gson, SOLID, Realm, Callbacks
+MVVM, Retrofit, Gson, SOLID, Realm, Callbacks  
+**CustomView**  
+CustomView  
