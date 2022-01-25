@@ -35,3 +35,6 @@ MVVM, Retrofit, Gson, SOLID
 MVVM, Retrofit, Gson, SOLID, Realm, Callbacks  
 **CustomView**  
 CustomView  
+**Auth Test**  
+Authenticate  with biometric  
+BiometricPrompt  
