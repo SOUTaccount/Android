@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.ListUserFragment"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/user1TextView"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:gravity="start|center_vertical"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        tools:text="User1"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/user2TextView"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="5dp"
+        tools:text="User2"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:gravity="start|center_vertical"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/user3TextView"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="5dp"
+        tools:text="User3"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:gravity="start|center_vertical"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/user4TextView"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="5dp"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:gravity="start|center_vertical"
+        android:textAlignment="gravity"
+        tools:text="User4"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+</LinearLayout>
